@@ -1,0 +1,6 @@
+faiss-cpu
+torch
+transformers
+flask
+PyPDF2
+protobuf
