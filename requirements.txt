@@ -4,3 +4,4 @@ transformers
 flask
 PyPDF2
 protobuf
+query
