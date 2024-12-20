@@ -36,7 +36,7 @@ def get_groq_response(persona_description, user_input):
             {"role": "user", "content": user_input}
         ],
         temperature=0.7,  
-        max_tokens=100,  
+        max_tokens=200,  
         top_p=1,
         stream=False
     )
