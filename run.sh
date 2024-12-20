@@ -12,7 +12,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the Flask app
-export FLASK_APP=app.py
-flask run
+python3 app.py
 
 deactivate
